@@ -60,3 +60,11 @@ Outros arquivos que estão no projeto, mas estão na pasta principal.
 3. Gemfile - Gems usadas no projeto.
 
 ---
+
+
+## 🧪 Estratégia de QA
+
+Este projeto faz parte do [portfólio de QA/SDET](https://github.com/MarcosPereira97/qa-portfolio-marcos) de Marcos Henrique Pereira Junior.
+
+- **Abordagem:** testes E2E automatizados cobrindo fluxos críticos de negócio, com foco em risco e valor.
+- **Documentação complementar:** estratégia de testes, casos de teste e exploratory charters disponíveis no [qa-portfolio-marcos](https://github.com/MarcosPereira97/qa-portfolio-marcos).
